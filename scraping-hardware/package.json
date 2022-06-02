@@ -1,0 +1,22 @@
+{
+  "name": "scraping-hardware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "playwright-chromium": "^1.22.2"
+  }
+}
